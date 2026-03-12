@@ -100,7 +100,7 @@ const LandingPage = () => {
         </div>
 
         <div className="footer-links">
-          <a href="#">YouTube Channel</a>
+          {/* <a href="#">YouTube Channel</a> */}
         </div>
 
         <div className="copyright">
